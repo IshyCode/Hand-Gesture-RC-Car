@@ -1,0 +1,2 @@
+This project implements a wireless, hand-gesture controlled RC car using an STM32 microcontroller as the receiver (car side) and an Arduino UNO as the transmitter (hand-gesture glove controller). Communication between both systems is powered by nRF24L01 2.4GHz transceivers. Motor control is achieved using an L298N dual H-bridge driver, allowing full bidirectional control of front and rear motors.
+The goal of the project is to build a smart, low-cost robotic vehicle that responds to intuitive hand gesture
